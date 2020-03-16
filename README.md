@@ -1,2 +1,3 @@
 # my-first-Android-app
-起飞飞飞飞飞
+
+暂时无法起飞
